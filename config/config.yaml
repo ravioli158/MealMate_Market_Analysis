@@ -1,0 +1,8 @@
+google_maps:
+    location: "Jaipur, India"
+    radius: 5000
+    types:
+        - pg
+        - hostel
+        - educational_institute
+        - company
